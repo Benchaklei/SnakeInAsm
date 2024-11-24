@@ -1,3 +1,6 @@
+# Disclaimer:
+**This project is experimental and may contain bugs. Use at your own risk. The author(s) are not responsible for any damages or losses resulting from the use of this software.**
+
 # SnakeAsm
 ## A snake game written in assembly (x86_16 nasm)
 I wrote this project in 8086 16 bit assembly language using nasm assembler.
